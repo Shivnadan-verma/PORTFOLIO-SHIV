@@ -121,7 +121,7 @@ body{
   height:  300px;
   border-radius: 50%;
   overflow: hidden;
-  border: 15px solid #333333;
+  border: 12px solid #333333;
   box-shadow: 5px 7px 25px rgba(0, 0, 0, 0.5)
 }
 .profile-photo .img{
